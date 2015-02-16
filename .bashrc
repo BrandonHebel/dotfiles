@@ -10,4 +10,3 @@ alias la='ls -a --color=auto'
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 
-archey3
